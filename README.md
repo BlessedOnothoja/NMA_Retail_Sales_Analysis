@@ -116,3 +116,6 @@ This analysis drills down to show clearly the performance of NMA across differen
 - Management should brainstorm and come up with retention strategies for high value customers and formulate means to encourage low value customers.
 
 - Top performing employees should be considered for annual incentives and regular reward systems should be adopted.
+
+
+Power BI Visualization: https://github.com/BlessedOnothoja/NMA_Retail_Sales_Analysis/blob/34ab5f765439d66cb9d5f17db6dee2f42415ed72/NMA%20Retailsales%20Report.pbix
